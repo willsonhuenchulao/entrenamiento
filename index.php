@@ -1,5 +1,6 @@
 <?php
 
-echo <h1>hola mundo</h1>;
+echo "<h1>en construcciongit status
+</h1>";
 
 ?>
